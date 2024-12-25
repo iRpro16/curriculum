@@ -232,3 +232,4 @@ This section contains helpful links to related content. It isn't required, so co
 - This [Promises, Async and Await video](https://www.youtube.com/watch?v=vn3tm0quoqE) gives a comprehensive view of Promises, async, and await.
 - For a more interactive explanation and example, try a [Scrim on async and await](https://scrimba.com/scrim/crd4eMc6?embed=odin,mini-header,no-next-up).
 - This [blog post about Promises From The Ground Up](https://www.joshwcomeau.com/javascript/promises/#why-would-they-design-it-this-way-1) delves into how Promises work.
+- This [blog on mastering Promises](https://medium.com/@PavanCodeCraft/mastering-promises-in-javascript-41a0c9df7473#:~:text=Promises%20in%20JavaScript%20are%20objects,the%20infamous%20%E2%80%9Ccallback%20hell%E2%80%9D.) gives a better view on their usage.
